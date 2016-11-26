@@ -1,0 +1,22 @@
+{
+  "name": "cjson",
+  "version": "0.1.0",
+  "description": "A strict JSON parser that accepts comments",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "dist/tests/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-shlomibo:Shlomibo/CJSON.git"
+  },
+  "keywords": [
+    "JSON",
+    "comments"
+  ],
+  "author": "Shlomi Borovitz",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "2.0.10"
+  }
+}
